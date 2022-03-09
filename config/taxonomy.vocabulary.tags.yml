@@ -1,0 +1,10 @@
+uuid: b2b17946-9d36-4006-9bbc-7bb48e175e36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AjOvEwQo8nMO7cw_awB7g9a_MuMqTt71dhRSiX2P6CY
+name: Tags
+vid: tags
+description: ''
+weight: 0
